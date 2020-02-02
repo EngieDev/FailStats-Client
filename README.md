@@ -13,8 +13,10 @@
 # Requirements:
 - fail2ban
 - Python3
-- pytz (can be installed via pip)
-- tzlocal
+- pip modules:
+    - pytz 
+    - tzlocal
+    - requests
 
 # Usage:
  - Put failstats.py into any appropriate folder, where the user has permission to read fail2ban logs

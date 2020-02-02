@@ -18,7 +18,7 @@
 
 # Usage:
  - Put failstats.py into any appropriate folder, where the user has permission to read fail2ban logs
-    - For example ~/fail/
+    - For example; ```~/fail/```
  - Setup a crontab to run it every hour/day/week as appropriate for your load-case for example:
    - ``` 18 * * * * cd ~/fail/ && python3 failstats.py  ```
    - Pick a random time if possible, as this spreads out the load on the server

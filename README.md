@@ -1,3 +1,6 @@
+# ARCHIVED - Please see [here](https://github.com/EngieDev/FailStats-go-client) for up-to-date version
+Was ported to golang to decrease the install requirements and make a easy to install client
+
 # FailStats Client
  Client that processes fail2ban logs and sends to [failstats.net](https://failstats.net) for aggregation and processing
 
